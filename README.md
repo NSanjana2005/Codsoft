@@ -30,6 +30,7 @@ This project allows users to perform basic arithmetic operations directly in the
 
 ---
 
-## 📷 Preview (Optional)
-You can add a screenshot of your calculator here:
+## 📷 Preview
+<img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/aff2f1a1-5fda-44d5-a152-aa6c69338c72" />
+
 
