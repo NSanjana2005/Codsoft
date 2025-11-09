@@ -33,4 +33,14 @@ This project allows users to perform basic arithmetic operations directly in the
 ## 📷 Preview
 <img width="1002" height="790" alt="image" src="https://github.com/user-attachments/assets/aff2f1a1-5fda-44d5-a152-aa6c69338c72" />
 
+---
+
+## 📄 License
+This project is open-source and available under the **MIT License**.
+
+---
+
+## 👩‍💻 Author
+**Sanjana Nintnavare**  
+GitHub: [@NSanjana2005](https://github.com/NSanjana2005)
 
